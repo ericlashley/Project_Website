@@ -1,8 +1,21 @@
 ---
 layout: default
 title: Robotic Arm Lab Upgrade
-# Senior Design – University of South Florida, Spring 2025
+subtitle: Senior Design – University of South Florida, Spring 2025
 ---
+
+<h1>{{ page.title }}</h1>
+<p class="subtitle">{{ page.subtitle }}</p>
+
+<style>
+.subtitle {
+  font-size: 1.2em;
+  color: #555;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+</style>
+
 
 <style>
 .tab-container {
