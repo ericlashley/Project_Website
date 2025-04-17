@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Robotic Arm Lab Upgrade
+# Senior Design – University of South Florida, Spring 2025
 ---
-# Robotic Arm Lab Upgrade
-### *Senior Design – University of South Florida, Spring 2025*
+
 <style>
 .tab-container {
   margin-top: 20px;
