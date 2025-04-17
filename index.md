@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Robotic Arm Lab Upgrade
+title: Senior Design - University of South Florida Spring 2025
 ---
 
 <style>
@@ -68,15 +69,15 @@ Welcome to our Senior Design project website! This page contains our documentati
 
 ---
 
-## 🧠 Motivation
+## Motivation
 <!-- Insert your project motivation here -->
 Our goal is to upgrade the robotic arm lab experience for future students by introducing new capabilities and streamlined interfaces.
 
-## ❓ Problem Formulation
+## Problem Formulation
 <!-- Insert your problem statement here -->
 The current robotic lab setup is outdated and lacks ROS 2 support. We aim to redesign the architecture and integrate a more modern system.
 
-## ⚙️ Parts
+## Parts
 Here are the main components used in this project:
 - Niryo One Robotic Arm
 - Jetson Nano / Raspberry Pi
@@ -84,25 +85,18 @@ Here are the main components used in this project:
 - ROS 2 Humble / Foxy Packages
 - 3D Printed Mounts and Fixtures
 
-## 📈 Progress
-- ✅ Week 1: Hardware benchmarking
-- ✅ Week 2: ROS 2 integration began
-- 🛠️ Week 3: Controller development in progress
-- 🔁 Ongoing: Test & validate communication with hardware
+## Progress
+- Design 1: Hardware benchmarking
+- Design 2: ROS 2 integration began
 
-## 🎥 Videos
+
+## Videos
 - [Demo 1 - Basic Motor Test](#)
-- [Demo 2 - ROS 2 Service Integration](#)
 
-## 📊 Presentations
-- [Design 1 Proposal](#)
-- [Design 1 Final](#)
-- [Design 2 Midterm](#)
-- [Design 2 Final](#)
 
 ---
 
-## 📂 Project Deliverables
+## Project Deliverables
 
 <div class="tab-container">
   <div class="tab-buttons">
@@ -111,7 +105,7 @@ Here are the main components used in this project:
   </div>
 
   <div class="tab-content">
-    <h3>📘 Design 1 Assignments</h3>
+    <h3>Design 1 Assignments</h3>
     <ul>
       <li><a href="#">Proposal Report</a></li>
       <li><a href="#">System Block Diagram</a></li>
@@ -123,7 +117,7 @@ Here are the main components used in this project:
   </div>
 
   <div class="tab-content">
-    <h3>📗 Design 2 Assignments</h3>
+    <h3>Design 2 Assignments</h3>
     <ul>
       <li><a href="#">Project Timeline</a></li>
       <li><a href="#">Test Plans</a></li>
@@ -137,7 +131,7 @@ Here are the main components used in this project:
 
 ---
 
-## 📝 Notes
+## Notes
 All Design 1 assignments are archived here for reference. Design 2 documents and progress will be added immediately after each submission deadline.
 
 ---
