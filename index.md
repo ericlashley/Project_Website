@@ -11,6 +11,7 @@ title: Robotic Arm Lab Upgrade
 .tab-buttons {
   display: flex;
   margin-bottom: 10px;
+  flex-wrap: wrap;
 }
 
 .tab-buttons button {
@@ -32,6 +33,7 @@ title: Robotic Arm Lab Upgrade
   border: 1px solid #ccc;
   padding: 15px;
   display: none;
+  background-color: #fff;
 }
 
 .tab-content.active {
@@ -62,11 +64,45 @@ document.addEventListener("DOMContentLoaded", function () {
 
 # Robotic Arm Lab Upgrade
 
-## Project Overview
-
-<!-- Add general info, motivation, etc. -->
+Welcome to our Senior Design project website! This page contains our documentation, progress, and all deliverables from Design 1 and Design 2 courses.
 
 ---
+
+## 🧠 Motivation
+<!-- Insert your project motivation here -->
+Our goal is to upgrade the robotic arm lab experience for future students by introducing new capabilities and streamlined interfaces.
+
+## ❓ Problem Formulation
+<!-- Insert your problem statement here -->
+The current robotic lab setup is outdated and lacks ROS 2 support. We aim to redesign the architecture and integrate a more modern system.
+
+## ⚙️ Parts
+Here are the main components used in this project:
+- Niryo One Robotic Arm
+- Jetson Nano / Raspberry Pi
+- Custom Power Supply Unit
+- ROS 2 Humble / Foxy Packages
+- 3D Printed Mounts and Fixtures
+
+## 📈 Progress
+- ✅ Week 1: Hardware benchmarking
+- ✅ Week 2: ROS 2 integration began
+- 🛠️ Week 3: Controller development in progress
+- 🔁 Ongoing: Test & validate communication with hardware
+
+## 🎥 Videos
+- [Demo 1 - Basic Motor Test](#)
+- [Demo 2 - ROS 2 Service Integration](#)
+
+## 📊 Presentations
+- [Design 1 Proposal](#)
+- [Design 1 Final](#)
+- [Design 2 Midterm](#)
+- [Design 2 Final](#)
+
+---
+
+## 📂 Project Deliverables
 
 <div class="tab-container">
   <div class="tab-buttons">
@@ -75,21 +111,36 @@ document.addEventListener("DOMContentLoaded", function () {
   </div>
 
   <div class="tab-content">
-    <h3>Design 1 Assignments</h3>
+    <h3>📘 Design 1 Assignments</h3>
     <ul>
-      <li><a href="#">Assignment 1</a></li>
-      <li><a href="#">Assignment 2</a></li>
-      <!-- More Design 1 assignments -->
+      <li><a href="#">Proposal Report</a></li>
+      <li><a href="#">System Block Diagram</a></li>
+      <li><a href="#">Bill of Materials</a></li>
+      <li><a href="#">Initial Simulation Results</a></li>
+      <li><a href="#">Final Presentation</a></li>
+      <!-- Add more Design 1 items as needed -->
     </ul>
   </div>
 
   <div class="tab-content">
-    <h3>Design 2 Assignments</h3>
+    <h3>📗 Design 2 Assignments</h3>
     <ul>
-      <li><a href="#">Assignment 1</a></li>
-      <li><a href="#">Assignment 2</a></li>
-      <!-- More Design 2 assignments -->
+      <li><a href="#">Project Timeline</a></li>
+      <li><a href="#">Test Plans</a></li>
+      <li><a href="#">Controller Implementation</a></li>
+      <li><a href="#">System Testing Videos</a></li>
+      <li><a href="#">Final Documentation</a></li>
+      <!-- Add more Design 2 items as you complete them -->
     </ul>
   </div>
 </div>
+
+---
+
+## 📝 Notes
+All Design 1 assignments are archived here for reference. Design 2 documents and progress will be added immediately after each submission deadline.
+
+---
+
+© 2025 Senior Design Team – Robotic Arm Lab Upgrade
 
