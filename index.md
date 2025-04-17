@@ -2,7 +2,6 @@
 layout: default
 title: Robotic Arm Lab Upgrade
 description: EEL4914: EE Senior Design II – Spring 2025​
-description: Department of Electrical Engineering​
 ---
 
 <style>
