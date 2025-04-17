@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Robotic Arm Lab Upgrade
-description: Senior Design – University of South Florida, Spring 2025
+description: EEL4914: EE Senior Design II – Spring 2025​
+description: Department of Electrical Engineering​
 ---
 
 <style>
