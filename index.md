@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Robotic Arm Lab Upgrade
-subtitle: Senior Design – University of South Florida, Spring 2025
+description: Senior Design – University of South Florida, Spring 2025
 ---
 
 <style>
